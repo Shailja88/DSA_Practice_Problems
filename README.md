@@ -6,7 +6,7 @@ Welcome to the **200 Problems Challenge**! This repository showcases the journey
 
 ## 📝 **Challenge Overview**
 - **Total Problems:** 200
-- **Duration:** 2 Days
+- **Duration:** 10 Days
 - **Goal:** Strengthen problem-solving skills and master key DSA concepts.
 
 ---
